@@ -1,0 +1,21 @@
+{
+  "name": "twitter-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.1-rc.5",
+    "core-js": "^3.15.1",
+    "graphql": "^16.0.1",
+    "graphql-tag": "^2.12.6",
+    "nuxt": "^2.15.7",
+    "sass": "^1.43.4",
+    "sass-loader": "^10.1.1"
+  },
+  "devDependencies": {}
+}
